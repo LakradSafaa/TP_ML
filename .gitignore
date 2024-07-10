@@ -1,0 +1,8 @@
+# Ignore virtual environments
+venv/
+
+# Ignore cache files
+*.pyc
+
+# Ignore sensitive information
+secret_key.txt
